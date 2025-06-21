@@ -1,4 +1,5 @@
 Projeto 1 - API de Gerenciamento de Tarefas
+
 Este projeto consiste no desenvolvimento de uma API simples para gerenciamento de tarefas. 
 A API permite criar, visualizar, atualizar e deletar tarefas, utilizando uma estrutura em memória (array de objetos).
 
@@ -18,7 +19,7 @@ A API permite criar, visualizar, atualizar e deletar tarefas, utilizando uma est
 - Criar e configurar o servidor utilizando Node.js e Express.
 - Trabalhar com dados em memória (array de objetos).
 - Estruturar rotas.
-- Realizar testes via ThunderClient ou Postman.
+- Realizar testes via ThunderClient.
   
 ✅ Entregas
 - Desenvolvimento das rotas PUT e DELETE por ID.
