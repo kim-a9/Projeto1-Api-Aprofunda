@@ -30,3 +30,6 @@ A API permite criar, visualizar, atualizar e deletar tarefas, utilizando uma est
 
 
 🧪 Prints dos Testes
+- POST ✅
+![POST](<primeiro teste - post 1.png>) ![POST](<primeiro teste - post 2.png>) ![POST](<primeiro teste - post 3.png>) 
+
