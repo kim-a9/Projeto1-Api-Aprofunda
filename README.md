@@ -31,5 +31,16 @@ A API permite criar, visualizar, atualizar e deletar tarefas, utilizando uma est
 
 🧪 Prints dos Testes
 - POST ✅
-![POST](<primeiro teste - post 1.png>) ![POST](<primeiro teste - post 2.png>) ![POST](<primeiro teste - post 3.png>) 
+![post](<primeiro teste - post 1.png>) ![POST](<primeiro teste - post 2.png>) ![POST](<primeiro teste - post 3.png>) 
 
+- GET ✅
+![get all tasks](<segundo teste - get tasks.png>)
+
+- GET BY ID ✅
+![get by id](<terceiro teste - get task by id 1.png>) ![get by id](<terceiro teste - get task by id 2.png>) ![get by id](<terceiro teste - get task by id 3.png>)
+
+- PUT ✅
+![put task number 2](<quarto teste - put 2.png>) ![put task number 2](<quarto teste - put 1.png>)
+
+- DELETE ✅
+![delete](<quinto teste - delete.png>)
